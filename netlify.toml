@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "/netlify/anything"
+  to = "https://www.google.com/search?q=anything"
+  status = 200
+[[redirects]]
+  from = "/get-trivia"
+  to = ".netlify/functions/get-trivia/get-trivia.js"
+  status = 200
